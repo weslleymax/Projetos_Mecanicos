@@ -1,2 +1,2 @@
-# Projetos_Mecanicos
+# Projetos Mecânicos
 Alguns projetos que realizei durante a graduação
